@@ -1,0 +1,12 @@
+{
+  "name": "@evalarumbe/deps-experiment-sayhelloplugin",
+  "version": "10.0.1",
+  "description": "An experiment to understand peer dependencies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
