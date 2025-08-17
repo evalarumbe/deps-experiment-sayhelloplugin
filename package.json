@@ -1,6 +1,6 @@
 {
   "name": "@evalarumbe/deps-experiment-sayhelloplugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A dependencies experiment to understand error output.",
   "main": "index.js",
   "type": "module",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/evalarumbe/deps-experiment-sayhelloplugin/issues"
   },
-  "homepage": "https://github.com/evalarumbe/deps-experiment-sayhelloplugin#readme"
+  "homepage": "https://github.com/evalarumbe/deps-experiment-sayhelloplugin#readme",
+  "peerDependencies": {
+    "@evalarumbe/deps-experiment-sayhello": "^1.0.1"
+  }
 }
