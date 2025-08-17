@@ -1,0 +1,20 @@
+{
+  "name": "@evalarumbe/deps-experiment-sayhelloplugin",
+  "version": "1.0.1",
+  "description": "A dependencies experiment to understand error output.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evalarumbe/deps-experiment-sayhelloplugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evalarumbe/deps-experiment-sayhelloplugin/issues"
+  },
+  "homepage": "https://github.com/evalarumbe/deps-experiment-sayhelloplugin#readme"
+}
